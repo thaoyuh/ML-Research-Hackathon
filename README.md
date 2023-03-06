@@ -6,7 +6,7 @@ Predict wildfires with long containment time to help with evacuation policy, usi
 - Climate data can be found at files starting with 'climdiv'. The source is https://www.ncei.noaa.gov/cdo-web/datasets.
 
 ## Feature Engineering
-- "CreateFeature.py" is the script for creating the climate feature and the historic containment time.
+- \href{https://github.com/thaoyuh/ML-Research-Hackathon/blob/main/CreateFeature.py}{"CreateFeature.py"} is the script for creating the climate feature and the historic containment time.
 - Added columns are:
   - 'tmp_monthly': the average temprature of the month in the state when and where the fire happened.
   - 'pcp_monthly': the average precipitition of the month in the state when and where the fire happened.
@@ -14,8 +14,8 @@ Predict wildfires with long containment time to help with evacuation policy, usi
   - 'NEARBY_HOUR_TO_CONT': the average containment time (in hours) of fires in the nearby areas in the past half year.
 
 ## Data Description and Visualization
-- Code for generating all descriptive statistics and figures in the report can be found in "RH Wildfires Visualization.ipynb". 
+- Code for generating all descriptive statistics and figures in the report can be found in \href{https://github.com/thaoyuh/ML-Research-Hackathon/blob/main/RH Wildfires Visualization.ipynb}{"RH Wildfires Visualization.ipynb"}. 
 
 ## Model Building and Evaluation
-- See "RH Wildfires ML Classification.ipynb" for the ML model building, and the explanary AI implementation.
-- See the "State Analysis" section in "RH Wildfires Visualization.ipynb" for the zoom-in analysis process.
+- See \href{https://github.com/thaoyuh/ML-Research-Hackathon/blob/main/RH Wildfires ML Classification.ipynb}{"RH Wildfires ML Classification.ipynb"} for the ML model building, and the explanary AI implementation.
+- See the "State Analysis" section in \href{https://github.com/thaoyuh/ML-Research-Hackathon/blob/main/RH Wildfires Visualization.ipynb}{"RH Wildfires Visualization.ipynb"} for the zoom-in analysis process.
