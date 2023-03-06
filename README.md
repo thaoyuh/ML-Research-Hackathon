@@ -14,8 +14,8 @@ Predict wildfires with long containment time to help with evacuation policy, usi
   - 'NEARBY_HOUR_TO_CONT': the average containment time (in hours) of fires in the nearby areas in the past half year.
 
 ## Data Description and Visualization
-- Code for generating all descriptive statistics and figures in the report can be found in ["RH Wildfires Visualization.ipynb"](https://github.com/thaoyuh/ML-Research-Hackathon/blob/main/RH Wildfires Visualization.ipynb). 
+- Code for generating all descriptive statistics and figures in the report can be found in ["RH Wildfires Visualization.ipynb"](https://github.com/thaoyuh/ML-Research-Hackathon/blob/main/RHWildfiresVisualization.ipynb). 
 
 ## Model Building and Evaluation
-- See ["RH Wildfires ML Classification.ipynb"](https://github.com/thaoyuh/ML-Research-Hackathon/blob/main/RH Wildfires ML Classification.ipynb) for the ML model building, and the explanary AI implementation.
-- See the "State Analysis" section in ["RH Wildfires Visualization.ipynb"](https://github.com/thaoyuh/ML-Research-Hackathon/blob/main/RH Wildfires Visualization.ipynb) for the zoom-in analysis process.
+- See ["RH Wildfires ML Classification.ipynb"](https://github.com/thaoyuh/ML-Research-Hackathon/blob/main/RHWildfiresMLClassification.ipynb) for the ML model building, and the explanary AI implementation.
+- See the "State Analysis" section in ["RH Wildfires Visualization.ipynb"](https://github.com/thaoyuh/ML-Research-Hackathon/blob/main/RHWildfiresVisualization.ipynb) for the zoom-in analysis process.
